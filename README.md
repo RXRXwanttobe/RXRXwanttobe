@@ -1,22 +1,7 @@
-# Sihan
+I am an M.S. student in biomedical engineering; my B.S. is in the same field, with a medical and life-science emphasis.
 
-I am an M.S. student in **Biomedical Engineering**, with a B.S. in the same field (medical / life-science track). My work sits between computational chemistry and AI-enabled drug discovery.
+My research is **structure-based**. I dock small molecules against protein targets, run virtual screens, and judge poses and ligand properties rather than developing new algorithms. The working stack is PyMOL and DataWarrior, with Python and MATLAB for analysis.
 
-## Now
+I also work on **medical image processing** (MRI, CT, X-ray). Radiology is the training ground; the intended application is **image-based phenotyping**—using cellular morphology as a readout, in the sense associated with Recursion (`RXRX`) and related techbio groups.
 
-I run **virtual screening and molecular docking** using established open-source tools, then inspect poses and chemical properties rather than writing discovery software from scratch. In graduate school I study **medical image processing** on MRI, CT, and X-ray. I went there because companies like [Recursion](https://www.recursion.com/) (`RXRX`) use **cellular images as a phenotype**. Radiology is not the same as a cell painting assay, but the image-processing ideas are what I want to carry over.
-
-## Interests
-
-- Structure-based screening: docking, pose check, hit triage
-- Phenotypic drug discovery and cell-image readouts
-- Medical image processing, with the long-term aim of applying it to biological images
-
-## Toolbox
-
-| | |
-|---|---|
-| **Chemistry / 3D** | PyMOL, DataWarrior |
-| **Languages** | Python, MATLAB |
-
-This account is where I will keep computational chemistry and imaging workflows that I can share.
+This repository index is for computational workflows I can share: docking, pose analysis, and, over time, image-based methods.
