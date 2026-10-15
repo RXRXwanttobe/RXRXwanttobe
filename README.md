@@ -1,7 +1,7 @@
-Undergraduate training was in biomedical engineering: mostly foundational biology, not computation. I am now an M.S. student in a separate program, learning to program and to work with medical images — MRI, CT, and X-ray.
+B.S. in biomedical engineering. I am an M.S. student, learning biomedical imaging and the programming that goes with it: MRI, CT, and X-ray.
 
-That training is aimed at **image-based phenotyping**. I am interested in treating cellular morphology as a biological readout, the approach associated with Recursion (`RXRX`) and similar groups. The images I am learning on are radiological; the images I want to be able to read are cells.
+At work I do structure-based research on small molecules. I dock and screen compounds against protein targets, then judge poses and ligand properties in PyMOL and DataWarrior, using Python and MATLAB for the analysis.
 
-Separately, my research is **structure-based and centered on small molecules**: docking and screening against protein targets, then judging poses and ligand properties. The working tools are PyMOL and DataWarrior, with Python and MATLAB for analysis.
+I am also interested in cell images, and in reading morphology as a phenotype, as groups such as Recursion (`RXRX`) do.
 
-This account is for computational workflows from that work that I can share.
+Computational workflows from this work that I can share will be posted here.
