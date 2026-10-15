@@ -1,7 +1,7 @@
-I am an M.S. student in biomedical engineering; my B.S. is in the same field, with a medical and life-science emphasis.
+Undergraduate training was in biomedical engineering: mostly foundational biology, not computation. I am now an M.S. student in a separate program, learning to program and to work with medical images — MRI, CT, and X-ray.
 
-My research is **structure-based**. I dock small molecules against protein targets, run virtual screens, and judge poses and ligand properties rather than developing new algorithms. The working stack is PyMOL and DataWarrior, with Python and MATLAB for analysis.
+That training is aimed at **image-based phenotyping**. I am interested in treating cellular morphology as a biological readout, the approach associated with Recursion (`RXRX`) and similar groups. The images I am learning on are radiological; the images I want to be able to read are cells.
 
-I also work on **medical image processing** (MRI, CT, X-ray). Radiology is the training ground; the intended application is **image-based phenotyping**—using cellular morphology as a readout, in the sense associated with Recursion (`RXRX`) and related techbio groups.
+Separately, my research is **structure-based and centered on small molecules**: docking and screening against protein targets, then judging poses and ligand properties. The working tools are PyMOL and DataWarrior, with Python and MATLAB for analysis.
 
-This repository index is for computational workflows I can share: docking, pose analysis, and, over time, image-based methods.
+This account is for computational workflows from that work that I can share.
