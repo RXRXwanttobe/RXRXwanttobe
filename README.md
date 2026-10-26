@@ -29,3 +29,7 @@ This GitHub is a place for the computational work that I can share publicly, inc
 - Reproducible benchmarks, visualizations, and small utilities developed during my learning.
 
 I aim to document how each workflow works, how its results were evaluated, and where its limitations lie. As I learn more, I hope to connect my interests in biomedical imaging, cellular phenotypes, and computational drug discovery.
+
+## Featured project
+
+[Cryptic Pocket Benchmark](https://github.com/RXRXwanttobe/cryptic-pocket-benchmark) — An independent, reproducible comparison of P2Rank and two Lacuna ranking configurations on 100 filtered CryptoBench targets, with evaluation code, public structural inputs, results, and English figures.
